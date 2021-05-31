@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Anil Gaihre"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant at UMass Lowell"
-  location         : "Lowell, Massachusetts"
+  bio              : "Graduate Research Assistant at Stevens Institute of Technology"
+  location         : "Jersey City, New Jersey"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=80XiknwAAAAJ&hl=en"
+  pubmed           
+  googlescholar    : "https://scholar.google.com/citations?user=80XiknwAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Anil-Gaihre"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-4892-6799"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
