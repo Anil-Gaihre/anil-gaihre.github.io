@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Anil Gaihre"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Anil Gaihre"
 description              : &description "PhD candidate at Stevens Institute of Technology"
 url                      : https://anil-gaihre.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=80XiknwAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
