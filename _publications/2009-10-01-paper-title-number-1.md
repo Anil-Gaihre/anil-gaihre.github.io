@@ -2,7 +2,7 @@
 title: "GSOFA: Scalable Sparse Symbolic LU Factorization on GPUs"
 collection: publications
 permalink: /publication/2021-05-31-GSOFA
-excerpt: 'This paper is about GPU based symbolic factorization for LU decomposition sparse solvers.'
+excerpt: 'This paper is about GPU based symbolic factorization for LU decomposition on sparse direct linear solvers.'
 date: 2021-05-31
 venue: 'IEEE TPDS Special Section: Innovative R&D toward the Exascale Era'
 paperurl: 'https://anil-gaihre.github.io/files/GSOFA.pdf'
