@@ -85,10 +85,10 @@ author:
   bio              : "PhD Candidate at Stevens Institute of Technology"
   location         : "Jersey City, New Jersey"
   employer         :
-  pubmed           : ""
+  pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=80XiknwAAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "agaihre@stevens.edu"
+  researchgate     : "https://www.researchgate.net/profile/Anil-Gaihre"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/anilgaihre/"
   orcid            : "https://orcid.org/0000-0002-4892-6799"
   pinterest        :
   soundcloud       :
