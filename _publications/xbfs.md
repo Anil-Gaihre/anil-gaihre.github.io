@@ -1,15 +1,15 @@
 ---
-title: "GSOFA: Scalable Sparse Symbolic LU Factorization on GPUs"
+title: "XBFS: eXploring Runtime Optimizations for Breadth-First Search on GPUs"
 collection: publications
-permalink: /publication/2021-05-31-GSOFA
-excerpt: 'This paper is about GPU based symbolic factorization for LU decomposition sparse solvers.'
+permalink: /publication/2019-06-17-XBFS
+excerpt: 'XBFS which introduces dynamic optimizations to BFS on GPUs. It adaptively uses four either novel or optimized scan approaches to rapidly generate frontier queue. Further, inspired by the observation that bottom-up BFS experiences unpredictable amounts of workload, the paper proposes the novel dynamic workload balancing method. Third, the work designs and implements the first truly asynchronous BFS traversal.'
 date: 2021-05-31
 venue: 'IEEE TPDS Special Section: Innovative R&D toward the Exascale Era'
 paperurl: 'https://anil-gaihre.github.io/files/GSOFA.pdf'
-citation: 'Gaihre, Anil, Xiaoye S. Li, and Hang Liu. "GSOFA: Scalable Sparse LU Symbolic Factorization on GPUs." arXiv preprint arXiv:2007.00840 (2020)'
+citation: 'Gaihre, Anil, et al. "Xbfs: exploring runtime optimizations for breadth-first search on gpus." Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing. 2019.'
 ---
-This paper is about GPU based symbolic factorization for LU decomposition sparse solvers.
+XBFS which introduces dynamic optimizations to BFS on GPUs. It adaptively uses four either novel or optimized scan approaches to rapidly generate frontier queue. Further, inspired by the observation that bottom-up BFS experiences unpredictable amounts of workload, the paper proposes the novel dynamic workload balancing method. Third, the work designs and implements the first truly asynchronous BFS traversal..
 
-[Download paper here](https://anil-gaihre.github.io/files/GSOFA.pdf)
+[Download paper here](https://anil-gaihre.github.io/files/XBFS.pdf)
 
-Recommended citation: Gaihre, Anil, Xiaoye S. Li, and Hang Liu. "GSOFA: Scalable Sparse LU Symbolic Factorization on GPUs." arXiv preprint arXiv:2007.00840 (2020).
+Recommended citation: Gaihre, Anil, et al. "Xbfs: exploring runtime optimizations for breadth-first search on gpus." Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing. 2019.
