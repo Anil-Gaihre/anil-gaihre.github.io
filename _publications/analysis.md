@@ -1,15 +1,14 @@
 ---
-title: "GSOFA: Scalable Sparse Symbolic LU Factorization on GPUs"
+title: "Do bitcoins users really care about anonymity"
 collection: publications
-permalink: /publication/2021-05-31-GSOFA
-excerpt: 'This paper is about GPU based symbolic factorization for LU decomposition sparse solvers.'
-date: 2021-05-31
-venue: 'IEEE TPDS Special Section: Innovative R&D toward the Exascale Era'
-paperurl: 'https://anil-gaihre.github.io/files/GSOFA.pdf'
-citation: 'Gaihre, Anil, Xiaoye S. Li, and Hang Liu. "GSOFA: Scalable Sparse LU Symbolic Factorization on GPUs." arXiv preprint arXiv:2007.00840 (2020)'
+permalink: /publication/2018-12-13-analysis
+excerpt: 'This paper examines the Bitcoin transaction graphs to answer two critical yet unanswered questions concerning anonymity and privacy: Do typical Bitcoin users care about anonymity? Do critical users care about anonymity?'
+date: 2018-12-13
+venue: '2018 IEEE International Conference on Big Data (Big Data)'
+paperurl: 'https://anil-gaihre.github.io/files/analysis.pdf'
+citation: 'Gaihre, Anil, Yan Luo, and Hang Liu. "Do bitcoin users really care about anonymity? an analysis of the bitcoin transaction graph." 2018 IEEE International Conference on Big Data (Big Data). IEEE, 2018.'
 ---
-This paper is about GPU based symbolic factorization for LU decomposition sparse solvers.
+This paper examines the Bitcoin transaction graphs to answer two critical yet unanswered questions concerning anonymity and privacy: Do typical Bitcoin users care about anonymity? Do critical users care about anonymity?
+[Download paper here](https://anil-gaihre.github.io/files/analysis.pdf)
 
-[Download paper here](https://anil-gaihre.github.io/files/GSOFA.pdf)
-
-Recommended citation: Gaihre, Anil, Xiaoye S. Li, and Hang Liu. "GSOFA: Scalable Sparse LU Symbolic Factorization on GPUs." arXiv preprint arXiv:2007.00840 (2020).
+Recommended citation: Gaihre, Anil, Yan Luo, and Hang Liu. "Do bitcoin users really care about anonymity? an analysis of the bitcoin transaction graph." 2018 IEEE International Conference on Big Data (Big Data). IEEE, 2018..
