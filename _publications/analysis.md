@@ -1,5 +1,5 @@
 ---
-title: "Do bitcoins users really care about anonymity?"
+title: "Do bitcoins users really care about anonymity? An Analysis of the Bitcoin Transaction Graph"
 collection: publications
 permalink: /publication/2018-12-13-analysis
 excerpt: 'This paper examines the Bitcoin transaction graphs to answer two critical yet unanswered questions concerning anonymity and privacy: Do typical Bitcoin users care about anonymity? Do critical users care about anonymity?'
