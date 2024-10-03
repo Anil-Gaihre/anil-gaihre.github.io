@@ -43,5 +43,5 @@ For a complete list of my publications, please visit my Google Scholar profile.
 - Big Data Processing
 - Blockchain Technology
 
-I am passionate about pushing the boundaries of what's possible in data processing and analysis through innovative applications of GPU technology. I'm always open to collaborations and discussions in these exciting fields.
+I am passionate about pushing the boundaries of what's possible in parallel algorithms and GPU acceleration. I'm always open to collaborations and discussions in these exciting fields.
 
